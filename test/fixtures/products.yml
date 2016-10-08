@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+leslie:
+  title: Ang Leslie ko :)
+  description: I love my Leslie! :)
+  price: 528.13
+  image_url: leslie.jpg
